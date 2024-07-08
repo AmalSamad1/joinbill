@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>521108154898-qh73qb6h3bi6kmh48jph58aedfqu16ts.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.521108154898-qh73qb6h3bi6kmh48jph58aedfqu16ts</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>521108154898-bka66gsds1pbqs1brspqk0v5la5iug89.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMyPlzIiLCnxSgcqx4xJ3HIfS7NkKGVHY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>521108154898</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zappitech.zappi-tech</string>
+	<key>PROJECT_ID</key>
+	<string>zappitech-af34e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zappitech-af34e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:521108154898:ios:b67c92d9010cfb87e546cb</string>
+	<key>DATABASE_URL</key>
+	<string>https://zappitech-af34e-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

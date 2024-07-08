@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360792670579",
+    "project_id": "join-bills",
+    "storage_bucket": "join-bills.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360792670579:android:11f847ceb3058b81f94506",
+        "android_client_info": {
+          "package_name": "com.zappitech.zappi_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSu4b5J6s5CIXzEQoJeoyPIZOMla0zB-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
